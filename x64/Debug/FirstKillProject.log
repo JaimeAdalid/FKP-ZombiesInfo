@@ -1,0 +1,6 @@
+﻿  FirstKillProject.cpp
+D:\Estudos\C++\FirstKillProject\FirstKillProject\FirstKillProject.cpp(52,52): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+D:\Estudos\C++\FirstKillProject\FirstKillProject\FirstKillProject.cpp(87,52): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+D:\Estudos\C++\FirstKillProject\FirstKillProject\FirstKillProject.cpp(136,30): warning C4244: '*=': conversão de 'double' para '__int64', possível perda de dados
+D:\Estudos\C++\FirstKillProject\FirstKillProject\FirstKillProject.cpp(157,30): warning C4244: '*=': conversão de 'double' para '__int64', possível perda de dados
+  FirstKillProject.vcxproj -> D:\Estudos\C++\FirstKillProject\x64\Debug\FirstKillProject.exe
